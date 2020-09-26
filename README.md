@@ -49,8 +49,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
 
 The objective of this project is to **create a cheap 1/18th race car with a deep-learning model that can be operated by students at a high school level**. Once the model is established and simplified enough, we will begin introducing this project to high schoolers to get them aware of this developing field. After there is a decent population of people working on their version of this project, the next objective would be to develop a friendly racing competition for students to compete with each other and push their understanding further in a healthy and encouraging environment.
 
@@ -130,12 +131,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
+<!--
 ## Contact
 It will be properly set up once the project finish the first of three phases.
 Your Name - [@ Not set up yet ](https://twitter.com/twitter_handle) - email
-
 Project Link: [ Not set up yet ](https://github.com/github_username/repo)
-
+-->
 
 
 <!-- ACKNOWLEDGEMENTS -->
