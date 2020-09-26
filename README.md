@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ANI717/race-car">
-    <img src="readme/temple.png" alt="Logo" width="100" height="100">
+    <img src="readme/temple.png" alt="Logo" width="200" height="200">
   </a>
 
   <h1 align="center">Temple Race-car Project - Deep Learning Repository</h1>
@@ -52,18 +52,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+The objective of this project is to **create a cheap 1/18th race car with a deep-learning model that can be operated by students at a high school level**. Once the model is established and simplified enough, we will begin introducing this project to high schoolers to get them aware of this developing field. After there is a decent population of people working on their version of this project, the next objective would be to develop a friendly racing competition for students to compete with each other and push their understanding further in a healthy and encouraging environment.
+
+<!--
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email`
-
+-->
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+* [Raspberry Pi 3 Model B+]()
+* [Raspberry Pi Camera V2]()
+* [Parts of the car such as base/platform, wheels, motor, and battery]()
+<!-- I don't know all the parts, thus it needs to be revisited and edited -->
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -129,19 +131,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+It will be properly set up once the project finish the first of three phases.
+Your Name - [@ Not set up yet ](https://twitter.com/twitter_handle) - email
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [ Not set up yet ](https://github.com/github_username/repo)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+* [Those who have contributed to the project are anonymous for now]()
+<!--
 * []()
 * []()
-* []()
+-->
 
 
 
